@@ -1,0 +1,3 @@
+### This application records score in a game of basketball. There are six buttons created with javascript which can add 1,2, or 3 points to either the home team or the away team. This project was built from scratch with a basic skeleton provided by the mentors working for Scrimba. Using CSS and HTML, this application was designed based off a figma created UI. as the sole developer, I also added a new game button which resets the scores to zero. 
+
+|||Timothy Michael Blackwell|||
